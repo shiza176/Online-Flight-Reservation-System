@@ -9,7 +9,8 @@ The system provides an interactive interface for users to search flights, manage
 - Organized project structure with multiple modules  
 ## Modules
 - Admin Module  
-- User Module  
+- User Module 
+- Booking Management  
 ## Technologies Used
 - C#  
 - .NET Framework   
